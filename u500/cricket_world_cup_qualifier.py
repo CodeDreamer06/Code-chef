@@ -1,0 +1,1 @@
+print('Yes' if int(input()) >= 12 else 'No')
