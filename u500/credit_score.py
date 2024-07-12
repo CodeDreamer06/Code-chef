@@ -1,0 +1,1 @@
+print('YES' if int(input()) >= 750 else 'NO')

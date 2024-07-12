@@ -1,0 +1,1 @@
+print('GOLD' if (hours := int(input())) < 3 else 'SILVER' if hours < 6 else 'BRONZE')

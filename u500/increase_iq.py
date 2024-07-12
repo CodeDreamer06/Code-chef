@@ -1,0 +1,1 @@
+print('Yes' if int(input()) > 163 else 'No')
