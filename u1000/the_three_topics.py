@@ -1,0 +1,1 @@
+print('Yes' if (i := input().split())[-1] in i[:-1] else 'No')
