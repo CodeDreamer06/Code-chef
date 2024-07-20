@@ -1,0 +1,1 @@
+print(i + 1 if (i := int(input())) % 4 == 0 else i - 1)
